@@ -1,0 +1,68 @@
+html,body{
+	height: 100%;
+	margin: 0;
+	font-size: 20px;
+	font-family:"lato", sans-serif;
+	font-weight: 400;
+	line-weight:1.8em;
+	color: #666;
+}
+.pimg1 {
+	background-image: url(https://thumbs.dreamstime.com/b/beautiful-rain-forest-ang-ka-nature-trail-doi-inthanon-national-park-thailand-36703721.jpg);
+	min-height: 100%;
+	position: relative;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.pimg2{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTop3FURunYzjtrWi-dR00VpdLtg-aP2A0zjQ&usqp=CAU);
+	min-height: 400px;
+	position: relative;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.pimg3{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfvj5VLAqf-8QensSXu-ACCew1WuvcTRf02Q&usqp=CAU);
+	min-height: 400px;
+	position: relative;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.ptext{
+	position: absolute;
+	top: 50%;
+	width: 100%;
+	text-align: center;
+	color: black;
+	font-size: 30px;
+	letter-spacing: 8px;
+}
+.textbg{
+	background: rgb(66, 66, 66);
+	color: floralwhite;
+	padding: 20px;
+}
+.section {
+	padding: 50px 80px;
+	text-align: center;
+	background-color:rgb(44, 44, 44);
+	color: powderblue;
+}
+.section2{
+	padding: 50px 80px;
+	text-align: center;
+	background-color:rgb(44, 44, 44);
+	color: powderblue;
+}
+.section3{
+	padding: 50px 80px;
+	text-align: center;
+	background-color:rgb(44, 44, 44);
+	color: powderblue;
+}
